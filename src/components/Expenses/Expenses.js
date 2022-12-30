@@ -1,12 +1,12 @@
-import ExpenseItem from "./ExpenseItem";
-import "./Expenses.css";
+// import ExpenseItem from "./ExpenseItem";
+// import "./Expenses.css";
 
-function Expenses({ expense }) {
-  return (
-    <div className="expenses">
-      <ExpenseItem expense={expense} />
-    </div>
-  );
-}
+// const Expenses = ({ expense }) => {
+//   return (
+//     <div className="expenses">
+//       <ExpenseItem expense={expense} />
+//     </div>
+//   );
+// };
 
-export default Expenses;
+// export default Expenses;
